@@ -1,7 +1,7 @@
 
 ## Metis - Project 1 - Benson Team 6
 
-#### Manhattan Mornings with Blue Bottle Coffee
+#### <u>Manhattan Mornings with Blue Bottle Coffee</u>
 
 Team Members: 
   Deepak Gautam,
